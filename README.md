@@ -1,1 +1,1 @@
-#Resouestas evaluacion 2 introduccion a tecnologias de informacion 
+# Respuestas evaluacion 2 introduccion a tecnologias de informacion 
